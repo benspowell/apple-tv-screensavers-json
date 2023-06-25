@@ -1,11 +1,15 @@
 {
-  "version": 30,
-  "initialAssetCount": 1,
-  "assets": [
-    {
-      "id": "screensavers",
-      "video-1": "https://apple-tv-screensavers.s3.us-east-2.amazonaws.com/videoplayback.mp4",
-      "accessibilityLabel": "screensavers"
-    }
-  ]
+   "version" : 30,
+   "initialAssetCount" : 4,
+   "assets" : [
+      {
+         "id" : "2022marcomloop30",
+         "url-1080-H264" : "https://apple-tv-screensavers.s3.us-east-2.amazonaws.com/videoplayback.mp4",
+         "url-1080-SDR" : "https://apple-tv-screensavers.s3.us-east-2.amazonaws.com/videoplayback.mp4",
+         "url-1080-HDR" : "https://apple-tv-screensavers.s3.us-east-2.amazonaws.com/videoplayback.mp4",
+         "url-4K-SDR" : "https://apple-tv-screensavers.s3.us-east-2.amazonaws.com/videoplayback.mp4",
+         "url-4K-HDR" : "https://apple-tv-screensavers.s3.us-east-2.amazonaws.com/videoplayback.mp4",
+         "accessibilityLabel" : "2022dec-marcomloop"
+      }
+   ]
 }
