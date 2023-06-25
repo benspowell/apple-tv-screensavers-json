@@ -1,15 +1,11 @@
 {
-   "version" : 30,
-   "initialAssetCount" : 4,
-   "assets" : [
-      {
-         "id" : "2022marcomloop30",
-         "url-1080-H264" : "http://atv.demos.apple.com/RetailLoop/ATV_Retail_Multi_Dec_2022/en_US_ATVRetial_NonFlexLoop_Multi_2022-1080SDR_HEVC_v01.mov",
-         "url-1080-SDR" : "http://atv.demos.apple.com/RetailLoop/ATV_Retail_Multi_Dec_2022/en_US_ATVRetial_NonFlexLoop_Multi_2022-1080SDR_HEVC_v01.mov",
-         "url-1080-HDR" : "http://atv.demos.apple.com/RetailLoop/ATV_Retail_Multi_Dec_2022/en_US_ATVRetial_NonFlexLoop_Multi_2022-1080SDR_HEVC_v01.mov",
-         "url-4K-SDR" : "http://atv.demos.apple.com/RetailLoop/ATV_Retail_Multi_Dec_2022/en_US_ATVRetial_NonFlexLoop_Multi_2022-4KHDR_HEVC_v01.mov",
-         "url-4K-HDR" : "http://atv.demos.apple.com/RetailLoop/ATV_Retail_Multi_Dec_2022/en_US_ATVRetial_NonFlexLoop_Multi_2022-4KHDR_HEVC_v01.mov",
-         "accessibilityLabel" : "2022dec-marcomloop"
-      }
-   ]
+  "version": 30,
+  "initialAssetCount": 1,
+  "assets": [
+    {
+      "id": "screensavers",
+      "video-1": "https://apple-tv-screensavers.s3.us-east-2.amazonaws.com/videoplayback.mp4",
+      "accessibilityLabel": "screensavers"
+    }
+  ]
 }
